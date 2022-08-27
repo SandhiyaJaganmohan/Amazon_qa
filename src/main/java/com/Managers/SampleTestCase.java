@@ -17,5 +17,10 @@ import org.testng.annotations.Test;
 		// TODO Auto-generated method stub
 
 	}
+	
+	private void studentNAme() {
+		// TODO Auto-generated method stub
+
+	}
 }
 
